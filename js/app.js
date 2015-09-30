@@ -42,7 +42,7 @@ $(document).ready(function() {
   });
   $(document).keyup(function(){
     $(".ryu-cool").hide();
-    $(".ryu-ready").show();
+    $(".ryu-still").show();
     $(".main").removeClass('main-x');
   });
   function playHadouken () {
